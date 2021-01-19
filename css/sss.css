@@ -1,0 +1,29 @@
+h1{
+	font-size: 60px;
+	text-align: center;
+	color: red;
+}
+nav{
+	background-color: black;
+	width: 100%;
+	height: 50px;
+	padding-top: 3px;
+	padding-bottom: 8px;
+
+}
+nav div ul li{
+	list-style: none;
+	display: inline-block;
+}
+nav div ul li a{
+	font-size: 30px;
+	margin-right:20px; 
+	color: white;
+	text-align: right;
+	text-decoration: none;
+	margin-top: 2px;
+}
+#logout{
+	border-left: 2px solid red;
+	padding-left: 10px;
+}

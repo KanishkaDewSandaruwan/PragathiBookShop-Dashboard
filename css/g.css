@@ -1,0 +1,65 @@
+form.search_bar{
+	width: 80%;
+	float: left;
+}
+form.search_bar input{
+	display: inline-block;
+	width: 78.7%;
+	background-color: gray;
+	margin: 0;
+	outline: 0;
+	border: 0;
+	font-size: 20px;
+	border-bottom-left-radius: 20px;
+	border-top-left-radius: 20px;
+	padding-left: 10px;
+
+}
+form.search_bar button{
+	display: inline-block;
+	width: 20%;
+	cursor: pointer;
+	background-color: gray;
+	margin: 0;
+	outline: 0;
+	border: 0;
+	margin-left: -10px;
+	font-size: 20px;
+	border-top-right-radius: 20px;
+	border-bottom-right-radius: 20px;
+}
+#log_icon{
+	font-size: 40px;
+	color: white;
+	padding: 1%;
+}
+#section_text{
+	font-size: 20px;
+	cursor: pointer;
+}
+#section_bar{
+}
+a.head_link{
+	text-decoration: none;
+}
+
+h1.student_h1{
+	font-size: 2.5vw;
+}
+table.student_table{
+	text-align: center;
+	margin-top: -5px;
+
+}
+table.student_table th{
+	border: 2px solid black;
+	text-align: center;
+	color: white;
+	font-size: 1vw;
+	background-color: green;
+}
+table.student_table td{	border: 1px solid black;
+	background-color: white;
+	font-size: 1vw;
+	height : 10px;
+}
